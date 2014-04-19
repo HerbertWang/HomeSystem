@@ -1,0 +1,4 @@
+home,40
+way,40
+home,30
+way,30
